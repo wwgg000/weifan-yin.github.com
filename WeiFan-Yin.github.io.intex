@@ -1,6 +1,6 @@
 <html>
 <style>
-p{font-size:24;
+p{font-size:24px;
 }
 </style>
 <body bgcolor="FF6699">
